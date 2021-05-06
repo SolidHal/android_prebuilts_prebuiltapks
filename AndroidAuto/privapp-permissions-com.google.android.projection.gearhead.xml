@@ -7,7 +7,7 @@
         <permission name="android.permission.CALL_PRIVILEGED"/>
         <permission name="android.permission.CAPTURE_AUDIO_HOTWORD"/>
         <permission name="android.permission.CAPTURE_AUDIO_OUTPUT"/>
-	<permission name="android.permission.CHANGE_COMPONENT_ENABLED_STATE"/>
+      	<permission name="android.permission.CHANGE_COMPONENT_ENABLED_STATE"/>
         <permission name="android.permission.CHANGE_DEVICE_IDLE_TEMP_WHITELIST"/>
         <permission name="android.permission.COMPANION_APPROVE_WIFI_CONNECTIONS"/>
         <permission name="android.permission.CONNECTIVITY_USE_RESTRICTED_NETWORKS"/>
@@ -33,5 +33,4 @@
         <permission name="android.permission.USER_ACTIVITY"/>
         <permission name="com.google.android.gms.permission.CAR_SPEED"/>
     </privapp-permissions>
-</privapp-permissions>
 </permissions>
